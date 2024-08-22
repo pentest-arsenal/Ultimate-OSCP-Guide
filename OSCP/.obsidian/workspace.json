@@ -180,8 +180,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "0b6b4da036e8a59b",
+  "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
+    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP/Pentesting Active Directory MindMap.md",
@@ -211,7 +212,6 @@
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST (CPTS)",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Hydra, Medusa/Hydra, Medusa.md",
     "PERSONAL NOTES & NOTABLE MENTIONS",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper",
     "Pasted image 20240812132017.png",
