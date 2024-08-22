@@ -162,5 +162,5 @@ Click Browse and choose the phpreverse.php file on Desktop while simultaneously 
 $ nc -lvnp  9443
 
 
-
+**Credit:** This information along with the all subdirectories that fall within the "HTB CERTIFIED PENETRATION TESTING SPECIALIST (CPTS)" section were adapted from the excellent guide on [HTB Academy](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist). Be sure to check out the original post for more details.
 

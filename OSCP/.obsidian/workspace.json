@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "dee3287e9df3e578",
+        "id": "9e9f61ec0eb4d1b6",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6b4da036e8a59b",
+            "id": "fa15e6d6f83c6b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8b696d39748f3467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "b5f7fddff424da78"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4bcabb01011c5985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a6e29099472e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "b5f7fddff424da78"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md"
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md"
               }
             }
           },
@@ -173,44 +180,44 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a35ab0d97f49b3e7",
+  "active": "f2a6e29099472e44",
   "lastOpenFiles": [
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/Burp Suite Community Edition/Burp Suite Community Edition.md",
+    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/Netsparker/Netsparker.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPwn/WinPwn.md",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Metasploit Framework/Metasploit Framework.md",
+    "TOOLS/ACTIVE SCANNING TOOLS/Unicornscan/Unicornscan.md",
+    "TOOLS/ACTIVE SCANNING TOOLS/NFS-Common,NFS-Utils/NFS-Common,NFS-Utils.md",
+    "TOOLS/ACTIVE SCANNING TOOLS/Masscan/Masscan.md",
+    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Dirb/Dirb.md",
+    "TOOLS/ACTIVE SCANNING TOOLS/Legion/Legion.md",
+    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/AutoRecon/AutoRecon.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/DNS Enumeration/DNS Enumeration.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo",
+    "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning",
+    "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/DNS Enumeration",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Initial Foothold.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Enumeration.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Alternate User Method - Metasploit.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New Text Document.txt",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New folder",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Web Enumeration.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Alternate User Method - Metasploit.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Enumeration.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module",
-    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting/Cross Site Scripting.md",
-    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP/Pentesting Active Directory MindMap.md",
-    "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Transferring Files.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Privilege Escalation.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Penetration Testing Stages.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Types of Shells.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Public Exploits.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Service Scanning.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Privilege Escalation.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Initial Foothold.md",
-    "TOOLS/ACTIVE SCANNING TOOLS/Masscan/Masscan.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Web Footprinting.md",
-    "Untitled 6.md",
-    "Untitled 10.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS",
     "Pasted image 20240812132017.png",
     "Pasted image 20240812132112.png",
     "Pasted image 20240810135433.png",

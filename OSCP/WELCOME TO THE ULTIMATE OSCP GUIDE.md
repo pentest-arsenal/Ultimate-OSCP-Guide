@@ -31,7 +31,7 @@ This guide is divided into comprehensive sections under **TOOLS**. Each section 
 **Web Application Scanning Tools**
 
 - **Purpose**: Targeting web applications requires specialized tools to discover vulnerabilities like SQL injection, XSS, and CSRF. This section is dedicated to those tools.
-- **Tools**: **OWASP ZAP**, **Burp Suite**, and **W3af** will be your main tools for assessing web applications.
+- **Tools**: **Nikto**, **OWASP ZAP**, and **W3af** will be your main tools for assessing web applications.
 
 **SSL/TLS Assessment Tools**
 
@@ -41,7 +41,7 @@ This guide is divided into comprehensive sections under **TOOLS**. Each section 
 **Exploitation & Post Exploitation Tools**
 
 - **Purpose**: Once you’ve identified vulnerable services or software, you can use this section to exploit those vulnerabilities and gain access to the target. Post-exploitation tools help maintain that access and further explore the compromised system.
-- **Tools**: Tools such as **CrackMapExec**, **Mimikatz**, and **Responder** are vital here.
+- **Tools**: Tools such as **CrackMapExec**, **Evil-WinRM**, and **Mimikatz** are vital here.
 
 **Manual Exploitation**
 
@@ -51,7 +51,7 @@ This guide is divided into comprehensive sections under **TOOLS**. Each section 
 **Privilege Escalation Tools**
 
 - **Purpose**: After gaining initial access, you’ll need to escalate privileges to fully control the target. This section provides tools and methods for both Windows and Linux systems.
-- **Tools**: LinPEAS, WinPEAS, and WinPwn will be your go-to tools for this stage.
+- **Tools**: **BeRoot**, **LinPEAS**, and **WinPEAS** will be your go-to tools for this stage.
 
 **Documenting Your Findings:**
 
