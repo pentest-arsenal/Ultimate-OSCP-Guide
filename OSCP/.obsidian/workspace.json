@@ -17,29 +17,22 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "4a18292343c6f6d3"
-          }
-        ]
-      },
-      {
-        "id": "9493486b5f72806f",
-        "type": "tabs",
-        "children": [
+            }
+          },
           {
-            "id": "9e97e889f3cd58c6",
+            "id": "4ae37fe483003b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
-                "mode": "preview",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "4a18292343c6f6d3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md"
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md"
               }
             }
           },
@@ -182,9 +175,10 @@
   },
   "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
+    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
+    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
     "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
-    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP/Pentesting Active Directory MindMap.md",
     "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST (CPTS)/Getting Started/Cheat Sheet.md",
@@ -219,7 +213,6 @@
     "RESULTS/10.10.10.15/SCANS UDP/Port 68 (UDP) - DHCP Client",
     "RESULTS/10.10.10.15/SCANS UDP/Port 67 (UDP) - DHCP (Dynamic Host Configuration Protocol) Server",
     "RESULTS/10.10.10.15/SCANS UDP/Port 5353 (UDP) - mDNS (Multicast DNS)",
-    "RESULTS/10.10.10.15/SCANS UDP/Port 53 (TCP, UDP) - DNS (Domain Name System)",
     "Pasted image 20240810135433.png",
     "Pasted image 20240810135437.png",
     "Pasted image 20240810135324.png",
