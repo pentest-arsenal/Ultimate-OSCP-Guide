@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Cheat Sheet.md",
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Alternate User Method - Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Cheat Sheet.md",
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Alternate User Method - Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Cheat Sheet.md",
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Alternate User Method - Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Cheat Sheet.md"
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Alternate User Method - Metasploit.md"
               }
             }
           },
@@ -162,28 +162,29 @@
   },
   "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Nibbles - Enumeration.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Cheat Sheet.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Cheat Sheet.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Enumeration.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started",
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting/Cross Site Scripting.md",
     "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP/Pentesting Active Directory MindMap.md",
     "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Transferring Files.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Privilege Escalation.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Penetration Testing Stages.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Nibbles - Alternate User Method - Metasploit.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Types of Shells.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Public Exploits.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Transferring Files.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Privilege Escalation.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Penetration Testing Stages.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Alternate User Method - Metasploit.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Types of Shells.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Public Exploits.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Service Scanning.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Nibbles - Privilege Escalation.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Nibbles - Initial Foothold.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Service Scanning.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Privilege Escalation.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Initial Foothold.md",
     "TOOLS/ACTIVE SCANNING TOOLS/Masscan/Masscan.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Nibbles - Web Footprinting.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Web Enumeration.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Nibbles - Web Footprinting.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started/Web Enumeration.md",
     "Untitled 6.md",
     "Untitled 10.md",
     "Untitled 9.md",
@@ -192,14 +193,12 @@
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
     "PERSONAL NOTES & NOTABLE MENTIONS",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper",
     "Pasted image 20240812132017.png",
     "Pasted image 20240812132112.png",
     "RESULTS/10.10.10.15/SCANS UDP/Port 68 (UDP) - DHCP Client",
     "RESULTS/10.10.10.15/SCANS UDP/Port 67 (UDP) - DHCP (Dynamic Host Configuration Protocol) Server",
-    "RESULTS/10.10.10.15/SCANS UDP/Port 5353 (UDP) - mDNS (Multicast DNS)",
     "Pasted image 20240810135433.png",
     "Pasted image 20240810135437.png",
     "Pasted image 20240810135324.png",
