@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4ae37fe483003b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting/Cross Site Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting/Cross Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting/Cross Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
