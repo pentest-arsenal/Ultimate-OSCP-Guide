@@ -59,7 +59,7 @@ Capturing screenshots of your scan results and organizing them by port number or
 
 Screenshots are also crucial during the OSCP reporting phase. Proper documentation and organization of your findings are key to crafting a thorough and effective report. This template, designed to track up to 10 IP addresses, helps keep your screenshots and notes organized for each new IP you discover.
 
-Obsidian makes it easy to keep your work organized and allows you to export your project to PDF to create a polished, professional report. For those looking to use my entire structure as a working template for their OSCP exam, you can request access to my complete Obsidian Vault by being invited to the private repository at [Pentest-Arsenal](https://github.com/pentest-arsenal/The-Ultimate-OSCP-Guide). Please message me directly to request an invitation, which will allow you to fully integrate the structure into your own Obsidian setup.
+Obsidian makes it easy to keep your work organized and allows you to export your project to PDF to create a polished, professional report. For those looking to use my entire structure as a working template for their OSCP exam, you can simply fork this repository. You can fully integrate this structure into your own Obsidian setup and add on to it to make it even better.
 
 **Special Notes:**
 
