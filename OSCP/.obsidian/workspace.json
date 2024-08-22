@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS/Cross Site Scripting-XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS/Cross Site Scripting-XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS/Cross Site Scripting-XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md"
+                "file": "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS/Cross Site Scripting-XSS.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
-    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)/Cross Site Scripting (XSS).md",
-    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting (XSS)",
+    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS/Cross Site Scripting-XSS.md",
+    "TOOLS/MANUAL EXPLOITATION/Cross Site Scripting-XSS",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PENTESTING ACTIVE DIRECTORY MINDMAP/Pentesting Active Directory MindMap.md",
     "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
