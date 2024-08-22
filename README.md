@@ -1,4 +1,4 @@
-WELCOME TO THE ULTIMATE OSCP GUIDE
+**WELCOME TO THE ULTIMATE OSCP GUIDE**
 
 This guide is designed to be your go-to resource, whether you’re just beginning your journey or you’re in the final stages of preparation. This guide will provide you with in-depth tutorials, command references, and practical advice to help you succeed.
 
