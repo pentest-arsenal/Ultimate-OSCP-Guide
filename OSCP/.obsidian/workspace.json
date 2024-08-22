@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b696d39748f3467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md"
+                "file": "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md"
               }
             }
           },
@@ -162,11 +175,13 @@
   },
   "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap/Test.md",
+    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New Text Document.txt",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New folder",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Web Enumeration.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Alternate User Method - Metasploit.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Cheat Sheet.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/Nibbles - Enumeration.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module",
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
@@ -196,10 +211,8 @@
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
     "PERSONAL NOTES & NOTABLE MENTIONS",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper",
     "Pasted image 20240812132017.png",
     "Pasted image 20240812132112.png",
-    "RESULTS/10.10.10.15/SCANS UDP/Port 68 (UDP) - DHCP Client",
     "Pasted image 20240810135433.png",
     "Pasted image 20240810135437.png",
     "Pasted image 20240810135324.png",
