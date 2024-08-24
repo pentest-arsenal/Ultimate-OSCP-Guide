@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md"
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "b78f795960c0b25d",
   "lastOpenFiles": [
-    "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
@@ -209,7 +210,6 @@
     "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Metasploit Framework/Metasploit Framework.md",
     "TOOLS/ACTIVE SCANNING TOOLS/NFS-Common,NFS-Utils/NFS-Common,NFS-Utils.md",
-    "TOOLS/ACTIVE SCANNING TOOLS/Masscan/Masscan.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning",
