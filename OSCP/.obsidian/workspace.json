@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md"
+                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md"
               }
             }
           },
@@ -182,10 +182,11 @@
   },
   "active": "b78f795960c0b25d",
   "lastOpenFiles": [
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Searchsploit/Searchsploit.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Searchsploit/Searchsploit.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
     "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
@@ -201,7 +202,6 @@
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM/Evil-WinRM.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Burp Suite Community Edition/Burp Suite Community Edition.md",
-    "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Netsparker/Netsparker.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPwn/WinPwn.md",
