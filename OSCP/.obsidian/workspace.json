@@ -18,16 +18,16 @@
                 "source": false
               }
             },
-            "group": "0b0961139ae1f3d4"
+            "group": "4afdabdd95a100c2"
           }
         ]
       },
       {
-        "id": "340657411e6e148d",
+        "id": "9fcb005c1b9d9386",
         "type": "tabs",
         "children": [
           {
-            "id": "f27d59257e01860e",
+            "id": "74aed69c773393f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": false
               }
             },
-            "group": "0b0961139ae1f3d4"
+            "group": "4afdabdd95a100c2"
           }
         ]
       }
@@ -180,18 +180,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c2d26d0995074a85",
+  "active": "74aed69c773393f8",
   "lastOpenFiles": [
+    "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Netcat (used for reverse shells)/Netcat (used for reverse shells).md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Neo4J/Neo4J.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo/Ligolo.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
     "TOOLS/ACTIVE SCANNING TOOLS/Unicornscan/Unicornscan.md",
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning/Port Scanning.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Hydra, Medusa/Hydra, Medusa.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM/Evil-WinRM.md",
@@ -208,7 +209,6 @@
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Dirb/Dirb.md",
     "TOOLS/ACTIVE SCANNING TOOLS/Legion/Legion.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/AutoRecon/AutoRecon.md",
-    "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/DNS Enumeration/DNS Enumeration.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning",
