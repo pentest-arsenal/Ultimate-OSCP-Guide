@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md"
+                "file": "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md"
               }
             }
           },
@@ -182,32 +182,32 @@
   },
   "active": "4d16ce0f034fbf43",
   "lastOpenFiles": [
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2/SSLScan & SSLScan2.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo/Ligolo.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Searchsploit/Searchsploit.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Netcat (used for reverse shells)/Netcat (used for reverse shells).md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Neo4J/Neo4J.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Hydra, Medusa/Hydra, Medusa.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM/Evil-WinRM.md",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2/SSLScan & SSLScan2.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Impacket Toolkit/Impacket Toolkit.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Searchsploit/Searchsploit.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
     "TOOLS/ACTIVE SCANNING TOOLS/A2SV (Auto Scanning to SSL Vulnerability)/A2SV (Auto Scanning SSL Vulnerability).md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Netcat (used for reverse shells)/Netcat (used for reverse shells).md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Neo4J/Neo4J.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Mimikatz/Mimikatz.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo/Ligolo.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/John the Ripper/John the Ripper.md",
     "TOOLS/ACTIVE SCANNING TOOLS/Unicornscan/Unicornscan.md",
     "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning/Port Scanning.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Hydra, Medusa/Hydra, Medusa.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM/Evil-WinRM.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Burp Suite Community Edition/Burp Suite Community Edition.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Netsparker/Netsparker.md",
