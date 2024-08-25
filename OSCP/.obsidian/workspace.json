@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "8f4ab7cad4eaa11d"
+          }
+        ]
+      },
+      {
+        "id": "291280ccf0a7f888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d269c64cf840ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8f4ab7cad4eaa11d"
           }
         ]
       }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md"
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md"
               }
             }
           },
@@ -160,11 +180,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a35ab0d97f49b3e7",
+  "active": "4d16ce0f034fbf43",
   "lastOpenFiles": [
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan/SSLScan.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2/SSLScan & SSLScan2.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
     "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
@@ -189,8 +211,6 @@
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Burp Suite Community Edition/Burp Suite Community Edition.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Netsparker/Netsparker.md",
-    "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPwn/WinPwn.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning",
