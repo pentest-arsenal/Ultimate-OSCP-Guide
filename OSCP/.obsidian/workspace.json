@@ -8,36 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b78f795960c0b25d",
+            "id": "4d16ce0f034fbf43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/Cipherscan/Cipherscan.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "9f7711307f07de1a"
-          }
-        ]
-      },
-      {
-        "id": "2a2be16c19161e8c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e83c819a74d6d129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "9f7711307f07de1a"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/Cipherscan/Cipherscan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/Cipherscan/Cipherscan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md"
+                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/Cipherscan/Cipherscan.md"
               }
             }
           },
@@ -180,10 +160,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b78f795960c0b25d",
+  "active": "4d16ce0f034fbf43",
   "lastOpenFiles": [
-    "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan/SSLScan.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/Cipherscan/Cipherscan.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan",
+    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
+    "TOOLS/PRIVILEGE ESCALATION TOOLS/LinPEAS/LinPEAS.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/BeRoot/BeRoot.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec/CrackMapExec.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
@@ -202,14 +186,11 @@
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning/Port Scanning.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Hydra, Medusa/Hydra, Medusa.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM/Evil-WinRM.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/BloodHound/BloodHound.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Burp Suite Community Edition/Burp Suite Community Edition.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Netsparker/Netsparker.md",
     "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPwn/WinPwn.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Metasploit Framework/Metasploit Framework.md",
-    "TOOLS/ACTIVE SCANNING TOOLS/NFS-Common,NFS-Utils/NFS-Common,NFS-Utils.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Evil-WinRM",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Ligolo",
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES/Port Scanning",
@@ -217,7 +198,6 @@
     "PERSONAL NOTES & NOTABLE MENTIONS/PERSONAL NOTES",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Network Enumeration with Nmap",
     "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New Text Document.txt",
-    "PERSONAL NOTES & NOTABLE MENTIONS/HTB CERTIFIED PENETRATION TESTING SPECIALIST/Getting Started Module/New folder",
     "Pasted image 20240812132017.png",
     "Pasted image 20240812132112.png",
     "Pasted image 20240810135433.png",
