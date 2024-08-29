@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md"
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "014644361ce7e908",
+  "active": "a35ab0d97f49b3e7",
   "lastOpenFiles": [
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Feroxbuster/Feroxbuster.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/ffuf (Fuzz Faster U Fool)/ffuf (Fuzz Faster U Fool).md",
+    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Enum4linux/Enum4linux.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/DNSrecon/DNSrecon.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/DNSenum/DNSenum.md",
