@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md"
+                "file": "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "6cccb551a56a8991",
   "lastOpenFiles": [
-    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
+    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
+    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Photon/Photon.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/OWASP Amass/OWASP Amass.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Gobuster/Gobuster.md",
@@ -208,7 +209,6 @@
     "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound/SharpHound.md",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/Searchsploit/Searchsploit.md",
-    "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/PlumHound/PlumHound.md",
     "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
