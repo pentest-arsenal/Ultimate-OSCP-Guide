@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md"
+                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "6cccb551a56a8991",
   "lastOpenFiles": [
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Wapiti/Wapiti.md",
     "Pasted image 20240901173135.png",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
