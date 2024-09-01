@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md"
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md"
               }
             }
           },
@@ -180,8 +180,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a35ab0d97f49b3e7",
+  "active": "6cccb551a56a8991",
   "lastOpenFiles": [
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
+    "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/WhatWeb/WhatWeb.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Wfuzz/Wfuzz.md",
@@ -206,9 +209,6 @@
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Dirbuster/Dirbuster.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Dirb/Dirb.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Arjun/Arjun.md",
-    "TOOLS/PRIVILEGE ESCALATION TOOLS/WinPEAS/WinPEAS.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2/SSLScan & SSLScan2.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLyze/SSLyze.md",
     "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/CrackMapExec",
