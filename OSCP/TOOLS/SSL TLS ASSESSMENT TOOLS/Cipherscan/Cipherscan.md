@@ -1,11 +1,5 @@
 # CipherScan
 
-[](https://github.com/mozilla/cipherscan#cipherscan)
-
-[![Build Status](https://camo.githubusercontent.com/968dfd60de6155c9035fe278d0b2c5bfa149bb4ce806af9dccca446b13134dd9/68747470733a2f2f7472617669732d63692e6f72672f6d6f7a696c6c612f6369706865727363616e2e7376673f6272616e63683d6d6173746572)](https://travis-ci.org/mozilla/cipherscan)
-
-[![cipherscan](https://camo.githubusercontent.com/eb45879b3fc65de2265ca672620cb198326e7db056b7f01575dc868c97f3f047/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4350626a764346573841416e554b332e706e673a6c61726765)](https://camo.githubusercontent.com/eb45879b3fc65de2265ca672620cb198326e7db056b7f01575dc868c97f3f047/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4350626a764346573841416e554b332e706e673a6c61726765)
-
 Cipherscan tests the ordering of the SSL/TLS ciphers on a given target, for all major versions of SSL and TLS. It also extracts some certificates informations, TLS options, OCSP stapling and more. Cipherscan is a wrapper above the `openssl s_client` command line.
 
 Cipherscan is meant to run on all flavors of unix. It ships with its own built of OpenSSL for Linux/64 and Darwin/64. On other platform, it will use the openssl version provided by the operating system (which may have limited ciphers support), or your own version provided in the `-o` command line flag.
