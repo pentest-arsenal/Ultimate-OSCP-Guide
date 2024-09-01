@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md"
+                "file": "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "6cccb551a56a8991",
   "lastOpenFiles": [
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Wapiti/Wapiti.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
+    "TOOLS/WEB APPLICATION SCANNING TOOLS/Wapiti/Wapiti.md",
     "Pasted image 20240901173135.png",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
     "TOOLS/WEB APPLICATION SCANNING TOOLS/Vega/Vega.md",
@@ -208,7 +209,6 @@
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Gobuster/Gobuster.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Fierce/Fierce.md",
     "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Feroxbuster/Feroxbuster.md",
     "Pasted image 20240828193620.png",
     "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
