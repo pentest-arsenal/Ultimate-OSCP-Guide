@@ -14,8 +14,7 @@ This guide is divided into comprehensive sections under **TOOLS**. Each section 
 3. **Web Application Scanning Tools** to target web apps.
 4. Use **SSL/TLS Assessment Tools** for encrypted services.
 5. **Exploitation & Post Exploitation Tools** using the identified vulnerabilities.
-6. **Manual Exploitation** when you feel like being a real hacker.
-7. **Privilege Escalation Tools** to gain full control.
+6. **Privilege Escalation Tools** to gain full control.
 
 
 **Reconnaissance and Enumeration Tools**
@@ -42,11 +41,6 @@ This guide is divided into comprehensive sections under **TOOLS**. Each section 
 
 - **Purpose**: Once you’ve identified vulnerable services or software, you can use this section to exploit those vulnerabilities and gain access to the target. Post-exploitation tools help maintain that access and further explore the compromised system.
 - **Tools**: Tools such as **CrackMapExec**, **Evil-WinRM**, and **Mimikatz** are vital here.
-
-**Manual Exploitation**
-
-- **Purpose**: In cases where automated tools don’t work or do not apply, manual exploitation techniques come into play. This section covers advanced, hands-on techniques to exploit vulnerabilities.
-- **Techniques**: This includes performing manual SQL injection, cross-site scripting (XSS), and command injection attacks. Additionally, it covers exploiting authentication flaws, manipulating access controls, and leveraging server-side request forgery (SSRF) vulnerabilities.
 
 **Privilege Escalation Tools**
 

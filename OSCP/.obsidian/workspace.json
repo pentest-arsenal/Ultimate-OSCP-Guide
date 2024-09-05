@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df58faec617991a0",
+        "id": "7c1a06a457696abe",
         "type": "tabs",
         "children": [
           {
-            "id": "6cccb551a56a8991",
+            "id": "a11d43bff1e41135",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "f5395b573c4d0e95"
-          }
-        ]
-      },
-      {
-        "id": "40e856352e229e20",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "902d5aca3f8eeec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f5395b573c4d0e95"
+            }
           }
         ]
       }
@@ -180,35 +160,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "6cccb551a56a8991",
+  "active": "a11d43bff1e41135",
   "lastOpenFiles": [
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/XSStrike/XSStrike.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/WPScan/WPScan.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Wapiti/Wapiti.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/11. Argparse.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/10. Main Function.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/9. AXFR Function.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/8. Python Modules.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/7. Python Code.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/6. DNS Enumeration.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/5. DNS Security.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/4. DNS Records and Queries.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/3. DNS Zones.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/2. DNS Structure.md",
+    "NOTABLE MENTIONS/DNS Enumeration Using Python/1. Tool Development.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Linux x86/1. Buffer Overflows Overview.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/11. Remote Exploitation.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/10. Building a Remote Exploit.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/9. Remote Fuzzing.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/8. Jumping to Shellcode.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/7. Finding a Return Instruction.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/6. Identifying Bad Characters.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/5. Controlling EIP.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/4. Fuzzing Parameters.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/3. Debugging Windows Programs.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/2. Buffer Overflow.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Windows x86/1. Cheat Sheet.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Linux x86/12. Prevention Techniques and Mechanisms.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Linux x86/11. Public Exploit Modification.md",
+    "NOTABLE MENTIONS/Stack-Based Buffer Overflows on Linux x86/10. Identification of the Return Address.md",
     "Pasted image 20240901173135.png",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP ZAP/OWASP ZAP.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Vega/Vega.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/OWASP Nettacker/OWASP Nettacker.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Nikto/Nikto.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Eyewitness/Eyewitness.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Joomscan/Joomscan.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/HTTPX/HTTPX.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/Droopescan/Droopescan.md",
-    "TOOLS/WEB APPLICATION SCANNING TOOLS/CMSmap/CMSmap.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/TestSSL/TestSSL.md",
-    "TOOLS/SSL TLS ASSESSMENT TOOLS/CipherScan/CipherScan.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/WhatWeb/WhatWeb.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/SMBclient/SMBclient.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Wfuzz/Wfuzz.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/TheHarvester/TheHarvester.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Sublist3r/Sublist3r.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Recon-ng/Recon-ng.md",
-    "WELCOME TO THE ULTIMATE OSCP GUIDE.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Photon/Photon.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/OWASP Amass/OWASP Amass.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Gobuster/Gobuster.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/Fierce/Fierce.md",
-    "TOOLS/RECONNAISSANCE AND ENUMERATION TOOLS/FFUF (Fuzz Faster U Fool)/FFUF (Fuzz Faster U Fool).md",
     "Pasted image 20240828193620.png",
     "TOOLS/SSL TLS ASSESSMENT TOOLS/SSLScan & SSLScan2",
     "TOOLS/EXPLOITATION & POST EXPLOITATION TOOLS/SharpHound",
