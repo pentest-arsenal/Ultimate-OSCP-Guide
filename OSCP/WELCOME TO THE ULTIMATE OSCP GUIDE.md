@@ -59,7 +59,7 @@ For those looking to use my entire structure as a working template for their OSC
 
 In addition to the tools and resources outlined in this guide, I am also utilizing materials from the **HTB Certified Penetration Testing Specialist**, **HTB Bug Bounty Hunter**, **HTB Stack-Based Buffer Overflows on Linux x86**, **HTB Stack-Based Buffer Overflows on Windows x86**, and **HTB DNS Enumeration Using Python** courses. These courses provide step-by-step guides and detailed screenshots that complement the methodologies described in this OSCP guide.
 
-However, due to HTB's **Acceptable Use Policy** and **copyright restrictions**, I am unable to share these specific materials in this repository. Instead, I encourage users to refer to HTB's official platforms for those resources. When combined, this guide and the knowledge from HTB courses form a comprehensive preparation tool for the OSCP exam.
+However, due to HTB's **Acceptable Use Policy** and **copyright restrictions**, I am unable to share these specific materials in this repository. Instead, I encourage users to refer to HTB's official platforms for those resources. You can utilize the student discount which is $8 a month on HTB Academy and you will have access to the material mentioned. When combined, this guide and the knowledge from HTB courses form a comprehensive preparation tool for the OSCP exam.
 
 **Special Notes:**
 
